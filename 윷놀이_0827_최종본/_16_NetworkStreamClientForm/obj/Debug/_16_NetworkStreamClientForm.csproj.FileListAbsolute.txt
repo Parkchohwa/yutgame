@@ -1,0 +1,182 @@
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_5_CSharp\_2019_08_21\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\팀프로젝트0822\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\팀프로젝트0823\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\팀프로젝트0822_16_53\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\윷놀이08231429\팀프로젝트0822_20_23\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\윷놀이08231630\테스트 버전\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이0823금요일\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\bitcamp\Desktop\윷놀이0825 UI수정\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이 0826 아침\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_CSharp_\팀프로젝트\윷놀이_0826_월_최종2\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Lecture\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe.config
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\bin\Debug\Interop.MediaPlayer.dll
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csprojAssemblyReference.cache
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\Interop.MediaPlayer.dll
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.ResolveComReference.cache
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form2.resources
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form3.resources
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+D:\_5_CSharp\TeamProject\Team_3\윷놀이_0827_최종본\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
